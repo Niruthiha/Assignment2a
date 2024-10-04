@@ -46,11 +46,6 @@ INFO6105 Fall 2024
 ## Conclusions
 This study highlights the significant impact of dataset size and complexity on ANN performance in classification tasks. While the Credit Card Churn model demonstrated strong performance with a larger, more complex dataset, the Maternal Health Risk model faced challenges typical of limited data scenarios.
 
-## Future Work
-- Explore advanced techniques for handling limited data in critical domains like healthcare
-- Implement ensemble methods to improve model performance
-- Investigate the use of transfer learning for the smaller dataset
-
 ## References
 1. C. Li, J. Wang, L. Wang, L. Hu and P. Gong, "Comparison of Classification Algorithms and Training Sample Sizes in Urban Land Classification with Landsat Thematic Mapper Imagery," Remote Sensing, vol. 6, no. 2, 2014.
 
