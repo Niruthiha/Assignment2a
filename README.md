@@ -18,13 +18,6 @@ INFO6105 Fall 2024
    - 6 attributes, 1,013 instances
    - Source: [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/863/maternal+health+risk)
 
-## Project Structure
-- `data/`: Contains the datasets used in this study
-- `notebooks/`: Jupyter notebooks with data preprocessing, model building, and analysis
-- `models/`: Saved ANN models
-- `results/`: Output files, including performance metrics and visualizations
-- `src/`: Source code for utility functions and helper scripts
-
 ## Key Features
 - Data preprocessing techniques including null value handling, label encoding, and feature scaling
 - ANN model architecture design for binary and multi-class classification
