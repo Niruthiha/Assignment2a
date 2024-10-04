@@ -39,9 +39,10 @@ INFO6105 Fall 2024
 2. Install required packages
 
 ## Results
-- Credit Card Churn model: 93% accuracy
-- Maternal Health Risk model: 70% accuracy
-- Detailed analysis and visualizations available in the respective notebooks
+- Credit Card Churn model: 93% accuracy, strong performance despite class imbalance
+- Maternal Health Risk model: 70% accuracy, challenges with limited data and multi-class classification
+- Impact of dataset size and complexity on ANN performance
+- Detailed analysis and visualizations available in the report Niruthiha_Selvnayagam_002413183_analysis.pdf
 
 ## Conclusions
 This study highlights the significant impact of dataset size and complexity on ANN performance in classification tasks. While the Credit Card Churn model demonstrated strong performance with a larger, more complex dataset, the Maternal Health Risk model faced challenges typical of limited data scenarios.
