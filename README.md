@@ -3,9 +3,6 @@
 ## Overview
 This project explores the implementation and performance of Artificial Neural Networks (ANNs) in two distinct classification tasks: Credit Card Customer Churn Prediction and Maternal Health Risk Assessment. It demonstrates the application of ANNs to real-world problems, highlighting the challenges and effectiveness of these models in different scenarios.
 
-## Author
-Niruthiha Selvnayagam (Student ID: 002413183)
-
 ## Course
 INFO6105 Fall 2024
 
