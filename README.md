@@ -1,4 +1,4 @@
-# Comparative Study of Artificial Neural Networks (ANNs) in Classification Tasks
+# Comparative Study of Artificial Neural Networks (ANNs) in Binary and Multi-class Classification Tasks
 
 ## Overview
 This project explores the implementation and performance of Artificial Neural Networks (ANNs) in two distinct classification tasks: Credit Card Customer Churn Prediction and Maternal Health Risk Assessment. It demonstrates the application of ANNs to real-world problems, highlighting the challenges and effectiveness of these models in different scenarios.
@@ -44,14 +44,6 @@ INFO6105 Fall 2024
 1. Clone this repository
 
 2. Install required packages
-
-## Usage
-1. Navigate to the `notebooks/` directory
-2. Open and run the Jupyter notebooks in the following order:
-- `01_data_preprocessing.ipynb`
-- `02_credit_card_churn_model.ipynb`
-- `03_maternal_health_risk_model.ipynb`
-- `04_comparative_analysis.ipynb`
 
 ## Results
 - Credit Card Churn model: 93% accuracy
